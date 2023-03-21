@@ -1,4 +1,4 @@
-###TpC (Teleport To Coordinates)
+#TpC (Teleport To Coordinates)
 `TpC` **will allow you to teleport to specified coordinates.**
 
 #####Usage:
