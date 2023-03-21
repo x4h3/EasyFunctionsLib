@@ -27,9 +27,9 @@ TpC(x, y, z)
 
 #### Usage:
 ```lua
-TpP("player")
+TpP("plr")
 ```
 
 | Field | Type | Description | Required
 | :-------- | :------- | :------- | :------- |
-| player | string | Name of the player you want to teleport to | Yes |
+| plr | string | Name of the player you want to teleport to | Yes |
