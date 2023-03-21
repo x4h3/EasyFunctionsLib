@@ -10,12 +10,12 @@ function TpC(x, y, z)
     end
 end
 
-function TpP(player)
+function TpP(plr)
     local player = game.Players.LocalPlayer
     local character = player.Character
     local humanoidRootPart = character.HumanoidRootPart
 
-    local targetPlayer = game.Players:FindFirstChild(player)
+    local targetPlayer = game.Players:FindFirstChild(plr)
 
     if targetPlayer then
         local targetPos = targetPlayer.Character.HumanoidRootPart.Position
