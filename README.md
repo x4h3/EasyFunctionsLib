@@ -1,5 +1,3 @@
-EasyFunctionLib is a library adding more functions to Roblox Scripting.
-
 #### Adding library to your script:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/x4h3/EasyFunctionsLib/main/library.lua"))()
