@@ -8,6 +8,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x4h3/EasyFunctionsLib
 [- TpC](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpc-teleport-to-coordinates)
 
 [- TpP](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpp-teleport-to-player)
+#### Randomization:
+[- RNumber]()
+
 ### TpC (Teleport To Coordinates)
 `TpC` **will allow you to teleport to specified coordinates.**
 
@@ -33,3 +36,23 @@ TpP("plr")
 | Field | Type | Description | Required
 | :-------- | :------- | :------- | :------- |
 | plr | string | Name of the player you want to teleport to | Yes |
+
+### RNumber (Random Number)
+`RNumber` **will generate a random number.**
+
+#### Usage:
+```lua
+local randomNumber = RNumber(min, max)
+print(randomNumber)
+```
+
+| Field | Type | Description | Required
+| :-------- | :------- | :------- | :------- |
+| min | number | Minimum number | No |
+| max | number | Maximum number | No |
+
+#### If number not specified:
+```lua
+min = 1
+max = 100
+```
