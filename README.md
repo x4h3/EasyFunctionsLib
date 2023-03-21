@@ -1,9 +1,16 @@
+EasyFunctionLib is a library adding more functions to Roblox Scripting.
+
+#### Adding library to your script:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x4h3/EasyFunctionsLib/main/library.lua"))()
+```
+
 # Documentation
 #### Teleportation:
 [- TpC](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpc-teleport-to-coordinates)
 
 [- TpP](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpp-teleport-to-player)
-## TpC (Teleport To Coordinates)
+### TpC (Teleport To Coordinates)
 `TpC` **will allow you to teleport to specified coordinates.**
 
 #### Usage:
@@ -17,7 +24,7 @@ TpC(x, y, z)
 | y | number | Y coordinate | Yes |
 | z | number | Z coordinate | Yes |
 
-## TpP (Teleport To Player)
+### TpP (Teleport To Player)
 `TpP` **will allow you to teleport to specified player.**
 
 #### Usage:
