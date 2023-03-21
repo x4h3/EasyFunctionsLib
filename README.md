@@ -43,7 +43,6 @@ TpP("plr")
 #### Usage:
 ```lua
 local randomNumber = RNumber(min, max)
-print(randomNumber)
 ```
 
 | Field | Type | Description | Required
