@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x4h3/EasyFunctionsLib
 
 [- TpP](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpp-teleport-to-player)
 #### Randomization:
-[- RNumber](https://github.com/x4h3/EasyFunctionsLib/blob/main/README.md#rnumber-random-number)
+[- RNumber](https://github.com/x4h3/EasyFunctionsLib/tree/main#rnumber-random-number)
 
 ### TpC (Teleport To Coordinates)
 `TpC` **will allow you to teleport to specified coordinates.**
