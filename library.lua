@@ -24,3 +24,10 @@ function TpP(plr)
         warn("Player not found or not specified.")
     end
 end
+
+function RNumber(min, max)
+    min = min or 1
+    max = max or 100
+    local randomNum = math.random(min, max)
+    return randomNum
+end
