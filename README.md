@@ -1,5 +1,7 @@
 # Documentation
+[· TpC](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpc-teleport-to-coordinates)
 
+[· TpP](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpp-teleport-to-player)
 ## TpC (Teleport To Coordinates)
 `TpC` **will allow you to teleport to specified coordinates.**
 
