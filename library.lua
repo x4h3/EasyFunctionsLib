@@ -31,3 +31,19 @@ function RNumber(min, max)
     local randomNum = math.random(min, max)
     return randomNum
 end
+
+function pSpeed(speed)
+    if speed then
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = speed
+    else
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+    end
+end
+
+function pJPower(jumpPower)
+    if jumpPower then
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = jumpPower
+    else
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+    end
+end
