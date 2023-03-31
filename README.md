@@ -4,6 +4,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x4h3/EasyFunctionsLib
 ```
 
 # Documentation
+#### Player
+[- pSpeed](https://github.com/x4h3/EasyFunctionsLib/tree/main#pspeed-player-speed)
+
 #### Teleportation:
 [- TpC](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpc-teleport-to-coordinates)
 
