@@ -56,7 +56,7 @@ min = 1
 max = 100
 ```
 
-### RNumber (Random Number)
+### pSpeed (Player Speed)
 `pSpeed` **will generate a random number.**
 
 #### Usage:
