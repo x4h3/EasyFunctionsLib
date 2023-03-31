@@ -60,7 +60,7 @@ max = 100
 ```
 
 ### pSpeed (Player Speed)
-`pSpeed` **will generate a random number.**
+`pSpeed` **This function changes your player speed.**
 
 #### Usage:
 ```lua
@@ -74,4 +74,21 @@ pSpeed(speed)
 #### If number not specified:
 ```lua
 speed = 16
+```
+
+### pJPower (Player JumpPower)
+`pJPower` **This function changes your player JumpPower.**
+
+#### Usage:
+```lua
+pJPower(jumpPower)
+```
+
+| Field | Type | Description | Required
+| :-------- | :------- | :------- | :------- |
+| jumpPower | number | Jump Power number | No |
+
+#### If number not specified:
+```lua
+jumpPower = 50
 ```
