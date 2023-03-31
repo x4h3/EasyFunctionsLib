@@ -55,3 +55,20 @@ local randomNumber = RNumber(min, max)
 min = 1
 max = 100
 ```
+
+### RNumber (Random Number)
+`pSpeed` **will generate a random number.**
+
+#### Usage:
+```lua
+pSpeed(speed)
+```
+
+| Field | Type | Description | Required
+| :-------- | :------- | :------- | :------- |
+| speed | number | Speed number | No |
+
+#### If number not specified:
+```lua
+speed = 16
+```
