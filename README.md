@@ -94,3 +94,19 @@ pJPower(jumpPower)
 ```lua
 jumpPower = 50
 ```
+
+### sRejoin (Server Rejoin)
+`sRejoin` **Rejoin to the same server.**
+
+#### Usage:
+```lua
+sRejoin()
+```
+
+### sHop (Server Hop)
+`sHop` **Hop to another server.**
+
+#### Usage:
+```lua
+sHop()
+```
