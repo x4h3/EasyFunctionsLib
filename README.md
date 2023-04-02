@@ -17,7 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x4h3/EasyFunctionsLib
 #### Randomization:
 [- RNumber](https://github.com/x4h3/EasyFunctionsLib/tree/main#rnumber-random-number)
 
-#### Randomization:
+#### Server:
 [- sRejoin](https://github.com/x4h3/EasyFunctionsLib#srejoin-server-rejoin)
 
 [- sHop](https://github.com/x4h3/EasyFunctionsLib#shop-server-hop)
