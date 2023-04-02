@@ -5,17 +5,17 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x4h3/EasyFunctionsLib
 
 # Documentation
 #### Player
-[- pSpeed](https://github.com/x4h3/EasyFunctionsLib/tree/main#pspeed-player-speed)
+[- pSpeed](https://github.com/x4h3/EasyFunctionsLib#pspeed-player-speed)
 
-[- pJPower](https://github.com/x4h3/EasyFunctionsLib/tree/main#pjpower-player-jumppower)
+[- pJPower](https://github.com/x4h3/EasyFunctionsLib#pjpower-player-jumppower)
 
 #### Teleportation:
-[- TpC](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpc-teleport-to-coordinates)
+[- TpC](https://github.com/x4h3/EasyFunctionsLib#tpc-teleport-to-coordinates)
 
-[- TpP](https://github.com/x4h3/EasyFunctionsLib/tree/main#tpp-teleport-to-player)
+[- TpP](https://github.com/x4h3/EasyFunctionsLib#tpp-teleport-to-player)
 
 #### Randomization:
-[- RNumber](https://github.com/x4h3/EasyFunctionsLib/tree/main#rnumber-random-number)
+[- RNumber](https://github.com/x4h3/EasyFunctionsLib#rnumber-random-number)
 
 #### Server:
 [- sRejoin](https://github.com/x4h3/EasyFunctionsLib#srejoin-server-rejoin)
